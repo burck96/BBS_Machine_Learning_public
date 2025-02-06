@@ -22,13 +22,14 @@
 	- 03-Classification-I (pages 69-end)
 	- 03-Classification-II (pages 1-21)
 	- Lab on topic 3b - Classification with hyperparameter tuning
-- 05/12/2024
+- 12/12/2024
 	- 03-Classification-II (pages 22-end)
 	- 03-Classification-III (pages 1-16)
 	- Lab on topic 3c - Using several classifiers
-- 12/12/2024
+- 19/12/2024
 	- 03-Classification-III (pages 17-end)
 	- 04-Type conversions
 	- Lab on topic 3d - Classification with categorical features
-- 19/12/2024
-	- to be determined
+- 09/01/2025
+	- Clustering: definition and objectives, K-Means algorithm, Evaluation of the quality of a clustering scheme with *inertia* and *silhouette*; *elbow method* for finding the optimal number of clusters
+	- Lab on clustering with K-means
